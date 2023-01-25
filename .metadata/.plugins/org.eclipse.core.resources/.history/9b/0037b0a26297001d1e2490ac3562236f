@@ -1,0 +1,4 @@
+spring.datasource.url=spring.datasource.url=jdbc:postgresql://localhost:5432/algalog?createDatabaseIfNotExist=true&useSSL=false
+spring.datasource.username=root
+spring.datasource.password=postgres
+spring.datasource.driver-class-name=org.postgresql.Driver

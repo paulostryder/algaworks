@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;algalog-api/src/main/resources/db/migration/renomeia-coluna-telefone.sql&apos; to &apos;V002__renomeia-coluna-telefone.sql&apos;" description="Rename resource &apos;renomeia-coluna-telefone.sql&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/resources/db/migration/renomeia-coluna-telefone.sql" name="V002__renomeia-coluna-telefone.sql" stamp="1674072599055" updateReferences="true"/>
+</session>

@@ -1,0 +1,4 @@
+spring.datasource.url=jdbc:postgresql://localhost/algalog?createDatabaseIfNotExist=true&ServerTimezone=UTC
+spring.datasource.username=postgres
+spring.datasource.password=123
+spring.datasource.driver-class-name=org.postgresql.Driver
